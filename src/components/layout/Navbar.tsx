@@ -43,7 +43,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <Heart className="h-8 w-8 text-primary fill-primary group-hover:scale-110 transition-transform" />
             <span className="font-serif text-xl font-bold text-foreground">
-              Naveen-mb<span className="text-primary">Marriage</span>
+              Naveen-<span className="text-primary">Marriage</span>
             </span>
           </Link>
 
