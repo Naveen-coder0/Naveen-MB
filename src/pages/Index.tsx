@@ -49,7 +49,7 @@ const Index = () => {
   const testimonials = [
     {
       name: "Priya & Rahul",
-      text: "Aish Marriage Bureau helped us find each other. We are forever grateful for their personalized service and care.",
+      text: "Naveen Marriage Bureau helped us find each other. We are forever grateful for their personalized service and care.",
       location: "Mumbai",
     },
     {
