@@ -111,7 +111,7 @@ const Index = () => {
             </h1>
 
             <h2 className="font-serif text-2xl md:text-3xl text-muted-foreground mb-4">
-              Aish Marriage Bureau
+              Naveen Marriage Bureau
             </h2>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
