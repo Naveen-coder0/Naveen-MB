@@ -287,7 +287,7 @@ const Contact = () => {
               Visit Us Online
             </h3>
             <p className="text-muted-foreground mb-4">
-              🌐 <span className="text-primary font-medium">www.aishmarriage.com</span>
+              🌐 <span className="text-primary font-medium">naveenmb.vercel.app/</span>
             </p>
             <p className="text-sm text-muted-foreground">
               Browse profiles, create your account, and start your journey to finding love today.
