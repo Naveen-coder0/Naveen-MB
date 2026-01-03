@@ -79,8 +79,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "info@aishmarriage.com",
-      href: "mailto:info@aishmarriage.com",
+      value: "info@naveenmarriage.com",
+      href: "mailto:info@naveenmarriage.com",
     },
     {
       icon: MapPin,
