@@ -52,11 +52,11 @@ const About = () => {
             </div>
 
             <h1 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-6">
-              About Aish Marriage Bureau
+              About Naveen Marriage Bureau
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Founded with a vision to unite hearts and create lasting relationships, Aish Marriage
+              Founded with a vision to unite hearts and create lasting relationships, Naveen Marriage
               Bureau has been helping families find the perfect match since 2020. Our commitment to
               traditional values combined with modern matchmaking techniques makes us the trusted
               choice for thousands of families.
@@ -76,7 +76,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground">
                   <p>
-                    Aish Marriage Bureau was born from a simple belief – that everyone deserves to
+                    Naveen Marriage Bureau was born from a simple belief – that everyone deserves to
                     find their soulmate. What started as a small family-run service has grown into
                     one of the most trusted matrimonial bureaus in the region.
                   </p>
