@@ -150,7 +150,7 @@ useEffect(() => {
             <CardDescription>
               {mode === "login"
                 ? "Sign in to continue"
-                : "Join Aish Marriage Bureau"}
+                : "Join Naveen Marriage Bureau"}
             </CardDescription>
           </CardHeader>
 
