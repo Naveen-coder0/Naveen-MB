@@ -52,15 +52,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-muted-foreground text-sm">
                 <Phone className="h-4 w-4 text-primary" />
-                123-456-7890
+                9988324455
               </li>
               <li className="flex items-center gap-2 text-muted-foreground text-sm">
                 <Mail className="h-4 w-4 text-primary" />
-                info@aishmarriage.com
+                naveen.maan2006@gmail.com
               </li>
               <li className="flex items-start gap-2 text-muted-foreground text-sm">
                 <MapPin className="h-4 w-4 text-primary mt-0.5" />
-                <span>123 Wedding Lane,<br />Love City, LC 12345</span>
+                <span>Chandigrah</span>
               </li>
             </ul>
           </div>
