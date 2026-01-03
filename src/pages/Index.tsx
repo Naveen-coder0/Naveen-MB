@@ -193,7 +193,7 @@ const Index = () => {
         <div className="container px-4">
           <div className="text-center mb-12">
             <h2 className="font-serif text-4xl font-bold text-foreground mb-4">
-              Why Choose Aish Marriage Bureau
+              Why Choose Naveen Marriage Bureau
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               We're more than just a matchmaking service – we're your partner in finding true love
